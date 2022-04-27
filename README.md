@@ -20,6 +20,8 @@
 
 - :school: I am a Junior Biomedical Engineering at Cairo University
 
+- 👯 I’m looking to collaborate on Machine Learning and Deep Learning Projects
+
 - 🌱 I’m currently learning **Django and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mustafamegahed20](https://github.com/Mustafamegahed20)
