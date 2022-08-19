@@ -18,7 +18,7 @@
 
 <h3 align="left">About me:</h3>
 
-- :school: I am a Junior Biomedical Engineering at Cairo University
+- :school: I am a senior Biomedical Engineering at Cairo University
 
 - 👯 I’m looking to collaborate on Machine Learning and Deep Learning Projects
 
