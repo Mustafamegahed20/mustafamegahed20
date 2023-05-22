@@ -20,7 +20,7 @@
 
 - :school: I am a senior Biomedical Engineering at Cairo University
 
-- 👯 I’m looking to collaborate on Machine Learning and Deep Learning Projects
+- 👯 I’m looking to collaborate on Machine Learning ,Deep Learning and Data Engineering Projects
 
 - 🌱 I’m currently learning **Django and Data Science**
 
