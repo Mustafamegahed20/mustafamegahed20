@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on Machine Learning ,Deep Learning and Data Engineering Projects
 
-- 🌱 I’m currently learning **Django and Data Science**
+- 🌱 I’m currently learning **Data Engineering and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mustafamegahed20](https://github.com/Mustafamegahed20)
 
