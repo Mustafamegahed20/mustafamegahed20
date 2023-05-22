@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mustafamegahed20](https://github.com/Mustafamegahed20)
 
-- 💬 Ask me about **python ,Django and Competitive Programming**
+- 💬 Ask me about **python ,Django and Competitive Programming,Data Engineering**
 
 - 📫 How to reach me **Mustafamegahed7@gmail.com**
 
