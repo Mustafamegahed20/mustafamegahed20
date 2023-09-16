@@ -18,15 +18,11 @@
 
 <h3 align="left">About me:</h3>
 
-- :school: I am a senior Biomedical Engineering at Cairo University
+- :school: Fresh graduate From Systems and Biomedical Engineering at Cairo University
 
-- 👯 I’m looking to collaborate on Machine Learning ,Deep Learning and Data Engineering Projects
-
-- 🌱 I’m currently learning **Data Engineering and Data Science**
+- 👯 I'm currently looking for opportunities in the roles of Data Engineer or Business  Intelligence
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mustafamegahed20](https://github.com/Mustafamegahed20)
-
-- 💬 Ask me about **python ,Django and Competitive Programming,Data Engineering**
 
 - 📫 How to reach me **Mustafamegahed7@gmail.com**
 
