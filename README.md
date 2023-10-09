@@ -28,8 +28,53 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<details>
+  <summary><strong>Skills</strong></summary>
+
+  ## Programming Languages
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-EE4C2C?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Scala&logoColor=white)
+
+  ## Data Analysis
+  ![Microsoft SQL Server](https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![SSIS](https://img.shields.io/badge/SSIS-A4373A?style=for-the-badge&logo=MicrosoftAccess&logoColor=white)
+  ![SSAS](https://img.shields.io/badge/SSAS-A4373A?style=for-the-badge&logo=MicrosoftAccess&logoColor=white)
+  ![SSRS](https://img.shields.io/badge/SSRS-A4373A?style=for-the-badge&logo=MicrosoftAccess&logoColor=white)
+
+  ## Data Visualization
+  ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C1528?style=for-the-badge&logo=Soundcharts&logoColor=white)
+
+  ## Data Engineering
+  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Scala&logoColor=white)
+  ![ETL](https://img.shields.io/badge/ETL-F68D2E?style=for-the-badge&logo=GoToMeeting&logoColor=white)
+  ![ELT](https://img.shields.io/badge/ELT-005571?style=for-the-badge&logo=ApacheFlink&logoColor=white)
+  ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=ApacheAirflow&logoColor=white)
+  ![Prefect](https://img.shields.io/badge/Prefect-881798?style=for-the-badge&logo=Prefect&logoColor=white)
+  ![Data Warehouse](https://img.shields.io/badge/DataWarehouse-D9232E?style=for-the-badge&logo=MicroStrategy&logoColor=white)
+  ![Azure Data Factory](https://img.shields.io/badge/AzureDataFactory-003366?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
+  ![Azure Synapse Analytics](https://img.shields.io/badge/AzureSynapseAnalytics-002747?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
+  ![Azure Databricks](https://img.shields.io/badge/AzureDatabricks-02DFFD?style=for-the-badge&logo=AzureDevOps&logoColor=white)
+  ![Apache Spark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white)
+  ![DataMining](https://img.shields.io/badge/DataMining-06062C?style=for-the-badge&logo=Icinga&logoColor=white)
+  ![BigDataConcepts](https://img.shields.io/badge/BigDataConcepts-E7282D?style=for-the-badge&logo=ServerFault&logoColor=white)
+  
+
+  ## Web Development
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+
+
+  
+</details>
 
 ---
 ### :fire: My Stats :
