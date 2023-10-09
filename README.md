@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa Megahed</h1>
-<h3 align="center">A passionate BI & Data Engineer from Egypt</h3>
+<h3 align="center">A passionate Data Engineer skilled in BI, Big Data, and creating Data Pipelines from collection to wrangling to analyzing
+then visualizing then presenting automated reports.</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -17,10 +18,7 @@
 
 <details>
   <summary><strong>About me</strong></summary>
-  
-- A passionate Data Engineer skilled in BI, Big Data, and creating Data Pipelines from collection to wrangling to analyzing
-then visualizing then presenting automated reports.
-  
+    
 - :school: Fresh graduate From Systems and Biomedical Engineering at Cairo University
 
 - 👯 I'm currently looking for opportunities in the roles of Data Engineer or Business  Intelligence
