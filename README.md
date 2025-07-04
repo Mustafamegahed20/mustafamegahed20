@@ -19,7 +19,7 @@ then visualizing then presenting automated reports.</h3>
 <details>
   <summary><strong>About me</strong></summary>
     
-- :school: Fresh graduate From Systems and Biomedical Engineering at Cairo University
+- :school: Graduated From Systems and Biomedical Engineering at Cairo University
 
 - 👯 I'm currently looking for opportunities in the roles of Data Engineer or Business  Intelligence
 
