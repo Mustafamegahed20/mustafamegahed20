@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa Megahed</h1>
-<h3 align="center">A passionate Data Engineer skilled in BI, Big Data, and creating Data Pipelines from collection to wrangling to analyzing
+<h3 align="center">A passionate Data Engineer with 2 years experience skilled in BI, Big Data, and creating Data Pipelines from collection to wrangling to analyzing
 then visualizing then presenting automated reports.</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -21,7 +21,7 @@ then visualizing then presenting automated reports.</h3>
     
 - :school: Graduated From Systems and Biomedical Engineering at Cairo University
 
-- 👯 I'm currently looking for opportunities in the roles of Data Engineer or Business  Intelligence
+- 👯 I'm currently looking for opportunities in the roles of Senior Data Engineer 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mustafamegahed20](https://github.com/Mustafamegahed20)
 
