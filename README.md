@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa Megahed</h1>
-<h3 align="center">A passionate Data Engineer with 2 years experience skilled in BI, Big Data, and creating Data Pipelines from collection to wrangling to analyzing
+<h3 align="center">A passionate Data Engineer with 3 years experience skilled in BI, Big Data, and creating Data Pipelines from collection to wrangling to analyzing
 then visualizing then presenting automated reports.</h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
